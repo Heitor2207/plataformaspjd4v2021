@@ -20520,7 +20520,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 1028.4021, y: 92.662285}
+  m_Size: {x: 754.9776, y: 92.662285}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -20535,7 +20535,7 @@ Transform:
   m_GameObject: {fileID: 2035276134}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 395.2236, y: 6.8428, z: 0}
+  m_LocalPosition: {x: 258.5114, y: 6.8428, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -20991,6 +20991,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6503264678685315480, guid: 29dfc228b7ba84133985982456dae00f, type: 3}
+      propertyPath: MaxDistance
+      value: 946.7014
+      objectReference: {fileID: 0}
     - target: {fileID: 6503264678685315483, guid: 29dfc228b7ba84133985982456dae00f, type: 3}
       propertyPath: m_Name
       value: LevelMusic
